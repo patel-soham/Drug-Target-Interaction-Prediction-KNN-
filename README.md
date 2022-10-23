@@ -4,6 +4,6 @@ A group project as a part of Pattern Classification course. (Oct 2021 - Nov 2021
 - Learned about fundamentals of Machine Learning and WEKA software.
 
 ---
-***Jupyter Notebook Code***
+**Jupyter Notebook Code**\
 [Python Code](knn-dti-training_final_version.pdf)
 
